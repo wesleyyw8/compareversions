@@ -1,4 +1,3 @@
 # compareversions
 
-1 file made in javascript
-1 file made in ruby
+I did it in javascript and in ruby
